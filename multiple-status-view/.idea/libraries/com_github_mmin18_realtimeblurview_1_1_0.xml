@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.mmin18:realtimeblurview-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/realtimeblurview-1.1.0.aar/93cbf372dec35cefcb22174eeaee48b7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/realtimeblurview-1.1.0.aar/93cbf372dec35cefcb22174eeaee48b7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mmin18/realtimeblurview/1.1.0/9ef553dd74dd55b7b5ae08ed60f92c3791fb90e4/realtimeblurview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
